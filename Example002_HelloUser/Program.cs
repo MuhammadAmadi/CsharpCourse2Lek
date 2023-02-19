@@ -1,3 +1,3 @@
-﻿string userName = Console.ReadLine();
+﻿string userName = Console.ReadLine() ?? String.Empty;
 Console.WriteLine("Привет");
 Console.WriteLine(userName);
