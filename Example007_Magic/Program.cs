@@ -38,4 +38,4 @@ while (count < 10000)
     Console.SetCursorPosition(x, y);
     Console.WriteLine("+");
 }
-Console.SetCursorPosition(1, 29);
+Console.SetCursorPosition(yA, yB);
